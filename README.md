@@ -15,6 +15,7 @@ With many an aspiring soccer enthusiast and young player out in the world, there
     + Database Designer
 3. **Jean Souverain**
     + Project Manager
+    + Code Architect
 
 
 ### Tech Stack
